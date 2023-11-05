@@ -1,0 +1,6 @@
+/Sisu/target/
+/Sisu/nbproject/
+.vscode/
+Sisu/src/main/java/fi/tuni/prog3/sisu/data/*
+!Sisu/src/main/java/fi/tuni/prog3/sisu/data/example.json
+!.git/

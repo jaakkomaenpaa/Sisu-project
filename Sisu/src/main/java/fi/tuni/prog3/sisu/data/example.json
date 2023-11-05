@@ -1,0 +1,12 @@
+{
+  "name": "testName",
+  "studentNumber": "123456",
+  "startYear": 2021,
+  "endYear": 2026,
+  "courses": [
+    {
+      "id": "otm-422a919a-3aa9-4571-9dab-9cbdd9f1be88",
+      "state": "COMPLETED"
+    }
+  ]
+}

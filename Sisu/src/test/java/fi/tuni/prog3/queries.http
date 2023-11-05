@@ -1,0 +1,11 @@
+
+GET https://sis-tuni.funidata.fi/kori/api/modules/otm-d2728f44-3e53-4bad-84c4-dbd257ac0f34
+    ?type=degreeProgramme
+
+###
+#GEt all degrees
+GET https://sis-tuni.funidata.fi/kori/api/module-search
+    ?curriculumPeriodId=uta-lvv-2021
+    &universityId=tuni-university-root-id
+    &moduleType=DegreeProgramme
+    &limit=1000
